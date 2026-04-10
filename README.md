@@ -33,10 +33,12 @@ This project leverages **machine learning algorithms** to identify fraudulent cl
 
 ## 🛠️ Tech Stack
 
-* **Programming:** Python / Java
+* **Programming:** Python
+* **Framework:** Django
 * **Libraries:** Pandas, NumPy, Scikit-learn
-* **Tools:** IDE
+* **IDE:** PyCharm
 * **Dataset:** CSV-based ad click data
+
 
 ---
 
@@ -97,7 +99,6 @@ python main.py
 * Improved detection efficiency using ensemble models
 * Reduced false detection rate
 
-*(Add screenshots/graphs here for better impact)*
 
 ---
 
